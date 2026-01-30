@@ -14,3 +14,12 @@ Berlin tech night edition with Perplexity. Fundamentals-first for Wildfly23 → 
 3. Problem-solving (PID1, bloat, leaks)
 4. Wildfly containerization bridge
 
+AI generated everything above. I want to see how well AI can teach. So, now I'm asking it to teach me Docker. 
+I know that AI isn't sentient, nor that it really understands what it's talking about. But I'd like to see what kind
+of mentor it can be. So, I gave it this challenge, "teach me docker and find out where my holes are in understanding this tech."
+And it's trying. Let's see if I can keep up with it. 
+
+I've decided to put this in version control just as a way to do a two-fer: get better at git AND docker at the same time. 
+
+
+
