@@ -21,5 +21,8 @@ And it's trying. Let's see if I can keep up with it.
 
 I've decided to put this in version control just as a way to do a two-fer: get better at git AND docker at the same time. 
 
+Update: After about three hours, I've come to the conlusion that this is pretty much a waste of time. Perplexity is a terrible tutor that can't see or understand
+its own limitations. It provides example commands that don't work and then we spiral into a back and forth that just keeps circling the drain. Even worse, 
+it doesn't understand that IT has provided nonfunctional commands, and keeps providing solutions as if the failures are mine. It's weird and deeply off-putting. 
 
 
